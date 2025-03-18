@@ -17,15 +17,6 @@ The **React Shopping Homepage** is a modern, interactive, and user-friendly e-co
 
 ---
 
-## 📸 Screenshots  
-
-### 🏠 Homepage  
-![Homepage](src/assets/Homepage1.png)  
-
-### 🛒 Shopping Cart  
-![Cart](src/assets/Homepage2.png)  
-
-
 ## 🛠️ Tech Stack  
 
 | Technology | Description |
@@ -36,4 +27,14 @@ The **React Shopping Homepage** is a modern, interactive, and user-friendly e-co
 | **Vercel** | Hosting & Deployment |
 
 ---
+
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+![Homepage](src/assets/Homepage1.png)  
+
+### 🛒 Shopping Cart  
+![Cart](src/assets/Homepage2.png)  
+
+
 
