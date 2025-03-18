@@ -1,9 +1,5 @@
 # 🛍️ React Shopping Homepage  
 
-📌 **Project Type:** MERN Stack (Frontend)  
-🚀 **Live Demo:** [View Here](https://your-vercel-deployment-link.vercel.app)  
----
-
 ## 📖 Overview  
 
 The **React Shopping Homepage** is a modern, interactive, and user-friendly e-commerce frontend built with **React.js**. This mini-project simulates a shopping cart experience, where users can browse products, add/remove items from the cart, and manage their selections dynamically.  
