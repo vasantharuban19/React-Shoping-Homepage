@@ -1,12 +1,43 @@
-<h1>This is MERN Stack Mini-Project</h1>
-<h2>React Shopping Homepage (Frontend)</h2>
-<p>The React Shopping Homepage is a simple e-commerce frontend application built using React. The project focuses on creating a shopping cart system that allows users to add and remove items dynamically. The primary goal is to provide a seamless shopping experience with real-time cart updates and a user-friendly interface.</p>
+# 🛍️ React Shopping Homepage  
 
-<h2>Key Features:</h2>
+📌 **Project Type:** MERN Stack (Frontend)  
+🚀 **Live Demo:** [View Here](https://your-vercel-deployment-link.vercel.app)  
+---
 
-<li>Displays a structured homepage showcasing various products with details like name, price, and image.
-<li>Each product has an "Add to Cart" button.
-<li>Users can add products to the cart by clicking the "Add to Cart" button.
-<li>Option to remove an item from the cart if no longer needed..
-<li>The cart updates dynamically when an item is added or removed.
-<li>Deployed for free using Vercel (frontend).
+## 📖 Overview  
+
+The **React Shopping Homepage** is a modern, interactive, and user-friendly e-commerce frontend built with **React.js**. This mini-project simulates a shopping cart experience, where users can browse products, add/remove items from the cart, and manage their selections dynamically.  
+
+---
+
+## 🎯 Features  
+
+✅ **Product Display** – Organized product listing with details like name, price, and image.  
+✅ **Add to Cart** – Click the **"Add to Cart"** button to add products dynamically.  
+✅ **Cart Management** – Users can remove items from the cart anytime.  
+✅ **Real-Time Updates** – The cart updates automatically when items are added or removed.  
+✅ **Local Storage** – Cart persists even after page refresh.  
+✅ **Deployed on Vercel** – Access the app anytime online.  
+
+---
+
+## 📸 Screenshots  
+
+### 🏠 Homepage  
+![Homepage](src/assets/Homepage1.png)  
+
+### 🛒 Shopping Cart  
+![Cart](src/assets/Homepage2.png)  
+
+
+## 🛠️ Tech Stack  
+
+| Technology | Description |
+|------------|-------------|
+| **React.js** | Frontend framework for building UI |
+| **CSS** | Custom styling for responsiveness |
+| **LocalStorage** | Stores cart data persistently |
+| **Vercel** | Hosting & Deployment |
+
+---
+
